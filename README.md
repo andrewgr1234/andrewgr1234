@@ -10,6 +10,13 @@ And im learning more advanced JS and TS.
 
 ### My stats:
 
-![andrewgr1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewgr1234&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgr1234&layout=compact&theme=tokyonight)
+ <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=andrewgr1234&count_private=true&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgr1234&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
