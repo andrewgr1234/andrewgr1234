@@ -16,7 +16,7 @@ And im learning fastAPI, Express.js/.ts and more advanced JS and TS.
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=andrewgr1234&count_private=true&show_icons=true&theme=tokyonight"/>
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgr1234&layout=compact&theme=tokyonight" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?andrewgr1234=anuraghazra&layout=donut"/>
     </td>
   </tr>
 </table>
