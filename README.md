@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Im andrew a 15 year old Developer since 2018. <br>
-I know: JS, Python, Html+CSS, TS ,Bash (including some frameworks).<br>
+I know: JavaScript, Python, Html+CSS, C#, Arduino C++ (including some frameworks).<br>
 
 <br>
 
